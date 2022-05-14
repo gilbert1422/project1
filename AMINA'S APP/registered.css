@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background-image: url(BG.jpg);
+	background-size: cover;
+	background-position: center;
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
